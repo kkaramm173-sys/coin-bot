@@ -5,8 +5,6 @@
 # TELEGRAM BILDIRIM
 # =========================================================
 
-websocket-client
-requests
 
 import websocket
 import json
