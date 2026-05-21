@@ -5,7 +5,8 @@
 # TELEGRAM BILDIRIM
 # =========================================================
 
-!pip install websocket-client requests -q
+websocket-client
+requests
 
 import websocket
 import json
